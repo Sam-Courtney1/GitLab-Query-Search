@@ -1,4 +1,4 @@
-# gitlab-query-testing
+# GitLab-query-testing
 
 ## Requirements
 
